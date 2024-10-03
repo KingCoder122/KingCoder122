@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingCoder122
-- 👀 I’m interested in Python , Java
+- 👀 I’m interested in Python , Java , Javascript , Full Stack Developement
 - 🌱 I’m currently learning Google Certified IT Automation with Python , DSA using Java , Cloud Computing-AWS
 - 💞️ I’m looking to collaborate on Python Projects, Java Projects.
 - 📫 How to reach me chinmay1125t@gmail.com kingcoder122@gmail.com  LinkedIn : www.linkedin.com/in/chinmay-joshi-063637248
