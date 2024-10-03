@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingCoder122
 - 👀 I’m interested in Python , Java
-- 🌱 I’m currently learning Google Certified IT Automation with Python
-- 💞️ I’m looking to collaborate on Python Projects.
+- 🌱 I’m currently learning Google Certified IT Automation with Python , DSA using Java , Cloud Computing-AWS
+- 💞️ I’m looking to collaborate on Python Projects, Java Projects.
 - 📫 How to reach me chinmay1125t@gmail.com kingcoder122@gmail.com  LinkedIn : www.linkedin.com/in/chinmay-joshi-063637248
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The first bug was an actual insect: In 1947, a team of engineers was working on the Harvard Mark II computer when they found a moth stuck in one of the relays. They taped the moth to the computer log and wrote "First actual case of bug being found" next to it.
